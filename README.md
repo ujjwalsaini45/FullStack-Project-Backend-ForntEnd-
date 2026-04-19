@@ -54,13 +54,7 @@ Strong understanding of full stack development lifecycle
 Ability to build scalable backend services and APIs
 Hands-on experience with file uploads and cloud integrations
 Clean coding practices and modular architecture design
-Readiness to work on real-world backend and DevOps-driven systems
-🚀 Future Enhancements
-Authentication & Authorization (JWT-based)
-Like, comment, and user interaction features
-CI/CD pipeline integration
-Deployment on cloud platforms (AWS / Docker / Kubernetes)
-🤝 Career Objective
+Readiness to work on real-world backend.
 
 Focused on opportunities in Backend Development and DevOps, with an interest in building scalable systems, automating workflows, and optimizing deployments.<img width="1920" height="1080" alt="Screenshot (705)" src="https://github.com/user-attachments/assets/9a19644b-7992-463d-a394-edc3695132a8" />
 <img width="1920" height="1080" alt="Screenshot (704)" src="https://github.com/user-attachments/assets/3a22e378-d1eb-4950-93c4-7730de8299fc" />
